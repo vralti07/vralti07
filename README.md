@@ -17,7 +17,7 @@
 
 
 ### 🚀 Professional Profile
-I am a **Software Engineer and AI/ML Enthusiast with 6+ years of experience** specializing in modernizing scalable backend systems and web applications. Currently, I am driving backend initiatives at **AT&T**, focusing on microservices, cloud-native architectures, and secure API design.
+I am a **Software Engineer and AI/ML Enthusiast with 6+ years of experience** specializing in modernizing scalable backend systems and web applications. Currently, I am driving backend initiatives at **AT&T** contract through **M9 Consulting Inc**, focusing on microservices, cloud-native architectures, and secure API design.
 
 * **Core Expertise:** Java, Spring Boot, Kubernetes, NextJS, React.
 * **Current Obsession:** Building Agentic workflows and RAG pipelines using LangChain, Neo4j, and local LLMs via Ollama.
