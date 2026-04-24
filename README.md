@@ -40,19 +40,11 @@ I am a **Software Engineer and AI/ML Enthusiast with 6+ years of experience** sp
 * **Agentforce Telco Provisioning:** Automated "zero-touch" SIM activation workflows using **Salesforce Agentforce and MuleSoft APIs**.
 
 
-
 ### 📊 GitHub Insights
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vralti07&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=vralti07&theme=tokyonight" alt="vralti07" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=vralti07&show_icons=true&locale=en&theme=tokyonight" />
-</p>
 
 <p align="right">
   <i>"Building resilient services and intelligent agents."</i>
