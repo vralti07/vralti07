@@ -27,7 +27,6 @@ I am a **Software Engineer and AI/ML Enthusiast with 6+ years of experience** sp
 
 | Category | Technologies |
 | :--- | :--- |
-
 | **Frontend** | React, NextJS, Lightning Web Component, Angular, HTML, CSS, JQuery, JavaScript, Tailwind css |
 | **Backend** | Java (Spring Boot/MVC), Hibernate, REST APIs, MuleSoft, Node.js |
 | **AI & ML** | LLMs (Mistral, DeepSeek, Qwen), LangChain, GraphRAG, Agentforce, Ollama |
