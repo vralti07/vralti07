@@ -46,11 +46,11 @@ I am a **Software Engineer with 6+ years of experience** specializing in moderni
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vralti07&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=vralti07&show_icons=true&locale=en&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=vralti07&theme=tokyonight" alt="vralti07" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=vralti07&theme=tokyonight" alt="vralti07" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=vralti07&show_icons=true&locale=en&theme=tokyonight" />
 </p>
 ---
 
