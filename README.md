@@ -1,5 +1,7 @@
 # Hi, I'm Vikranth Reddy Alti 👋 
 ### Senior Software Engineer | Java & Cloud Specialist | AI/ML Enthusiast
+- 👨‍💻 my portfolio [https://my-nextjs-portfolio-one.vercel.app/](https://my-nextjs-portfolio-one.vercel.app/)
+
 
 <p align="left">
   <a href="https://linkedin.com/in/vikranthra31/" target="blank">
