@@ -15,7 +15,7 @@
 
 
 ### 🚀 Professional Profile
-I am a **Software Engineer with 6+ years of experience** specializing in modernizing scalable backend systems and web applications. Currently, I am driving backend initiatives at **AT&T**, focusing on microservices, cloud-native architectures, and secure API design.
+I am a **Software Engineer and AI/ML Enthusiast with 6+ years of experience** specializing in modernizing scalable backend systems and web applications. Currently, I am driving backend initiatives at **AT&T**, focusing on microservices, cloud-native architectures, and secure API design.
 
 * **Core Expertise:** Java, Spring Boot, Kubernetes, and IAM (SailPoint/Saviynt).
 * **Current Obsession:** Building Agentic workflows and RAG pipelines using LangChain, Neo4j, and local LLMs via Ollama.
@@ -43,7 +43,6 @@ I am a **Software Engineer with 6+ years of experience** specializing in moderni
 
 
 ### 📊 GitHub Insights
-
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vralti07&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </p>
@@ -55,7 +54,6 @@ I am a **Software Engineer with 6+ years of experience** specializing in moderni
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=vralti07&show_icons=true&locale=en&theme=tokyonight" />
 </p>
-
 
 <p align="right">
   <i>"Building resilient services and intelligent agents."</i>
