@@ -50,7 +50,7 @@ I am a **Software Engineer with 6+ years of experience** specializing in moderni
 </p>
 
 <p align="center">
-  <img width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=vralti07&theme=tokyonight" alt="vralti07" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=vralti07&theme=tokyonight" alt="vralti07" />
 </p>
 ---
 
