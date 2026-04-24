@@ -51,5 +51,5 @@ I am a **Software Engineer and AI/ML Enthusiast with 6+ years of experience** sp
 
 
 <p align="right">
-  <i>"Building resilient services and intelligent agents."</i>
+  <i>"👨‍💻 Plan C is to Commit"</i>
 </p>
