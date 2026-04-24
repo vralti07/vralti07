@@ -1,7 +1,6 @@
-# Hi, I'm Vikranth Reddy Alti 👋 
+# Hi, I'm Vikranth Reddy Alti 👋 <img src="https://komarev.com/ghpvc/?username=vralti07&label=Profile%20views&color=0e75b6&style=flat-square" alt="vralti07" />
 ### Senior Software Engineer | Java & Cloud Specialist | AI/ML Enthusiast
-- 👨‍💻 my portfolio [https://my-nextjs-portfolio-one.vercel.app/](https://my-nextjs-portfolio-one.vercel.app/)
-
+- 👨‍💻 my portfolio [https://my-nextjs-portfolio-one.vercel.app/](https://my-nextjs-portfolio-one.vercel.app/) 
 
 <p align="left">
   <a href="https://linkedin.com/in/vikranthra31/" target="blank">
@@ -9,9 +8,6 @@
   </a>
   <a href="mailto:vik0731.ra@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a>
-    <img src="https://komarev.com/ghpvc/?username=vralti07&label=Profile%20views&color=0e75b6&style=flat-square" alt="vralti07" />
   </a>
 </p>
 
