@@ -34,13 +34,13 @@ I am a **Software Engineer and AI/ML Enthusiast with 6+ years of experience** sp
 | **Languages** | Java, SQL, Python, TypeScript, JavaScript, Apex (Salesforce) |
 
 
-### 🧠 Featured AI Projects
+### 🧠 Featured Personal AI Projects
 * **Graph-Augmented Knowledge Engine (GraphRAG):** Built a pipeline using **Python, Neo4j, and LangChain** to transform unstructured PDFs into a Knowledge Graph for multi-hop reasoning.
 * **Local LLM Intelligence Pipeline:** Privacy-focused RAG system using **Ollama & ChromaDB** to run high-parameter models locally.
 * **Agentforce Telco Provisioning:** Automated "zero-touch" SIM activation workflows using **Salesforce Agentforce and MuleSoft APIs**.
 
 
-### 📊 Most used
+### 📊 Most Used Languages
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vralti07&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </p>
