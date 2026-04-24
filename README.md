@@ -8,10 +8,11 @@
   <a href="mailto:vik0731.ra@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=vralti07&label=Profile%20views&color=0e75b6&style=flat-square" alt="vralti07" />
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=vralti07&label=Profile%20views&color=0e75b6&style=flat-square" alt="vralti07" />
+  </a>
 </p>
 
----
 
 ### 🚀 Professional Profile
 I am a **Software Engineer with 6+ years of experience** specializing in modernizing scalable backend systems and web applications. Currently, I am driving backend initiatives at **AT&T**, focusing on microservices, cloud-native architectures, and secure API design.
@@ -20,7 +21,7 @@ I am a **Software Engineer with 6+ years of experience** specializing in moderni
 * **Current Obsession:** Building Agentic workflows and RAG pipelines using LangChain, Neo4j, and local LLMs via Ollama.
 * **Education:** MS in Computer Science (Texas A&M University).
 
----
+
 
 ### 🛠️ Technical Arsenal
 
@@ -33,14 +34,13 @@ I am a **Software Engineer with 6+ years of experience** specializing in moderni
 | **Security** | IAM (SailPoint, Saviynt), RBAC/ABAC, Secure API Masking |
 | **Languages** | Java, SQL, Python, TypeScript, JavaScript, Apex (Salesforce) |
 
----
 
 ### 🧠 Featured AI Projects
 * **Graph-Augmented Knowledge Engine (GraphRAG):** Built a pipeline using **Python, Neo4j, and LangChain** to transform unstructured PDFs into a Knowledge Graph for multi-hop reasoning.
 * **Local LLM Intelligence Pipeline:** Privacy-focused RAG system using **Ollama & ChromaDB** to run high-parameter models locally.
 * **Agentforce Telco Provisioning:** Automated "zero-touch" SIM activation workflows using **Salesforce Agentforce and MuleSoft APIs**.
 
----
+
 
 ### 📊 GitHub Insights
 
@@ -55,14 +55,7 @@ I am a **Software Engineer with 6+ years of experience** specializing in moderni
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=vralti07&show_icons=true&locale=en&theme=tokyonight" />
 </p>
----
 
-### 🏆 GitHub Trophies
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vralti07&column=7&theme=flat&no-frame=true" alt="vralti07" />
-  </a>
-</p>
 
 <p align="right">
   <i>"Building resilient services and intelligent agents."</i>
