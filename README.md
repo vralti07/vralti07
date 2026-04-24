@@ -17,7 +17,7 @@
 ### 🚀 Professional Profile
 I am a **Software Engineer and AI/ML Enthusiast with 6+ years of experience** specializing in modernizing scalable backend systems and web applications. Currently, I am driving backend initiatives at **AT&T**, focusing on microservices, cloud-native architectures, and secure API design.
 
-* **Core Expertise:** Java, Spring Boot, Kubernetes, and IAM (SailPoint/Saviynt).
+* **Core Expertise:** Java, Spring Boot, Kubernetes, NextJS, React.
 * **Current Obsession:** Building Agentic workflows and RAG pipelines using LangChain, Neo4j, and local LLMs via Ollama.
 * **Education:** MS in Computer Science (Texas A&M University).
 
@@ -27,6 +27,8 @@ I am a **Software Engineer and AI/ML Enthusiast with 6+ years of experience** sp
 
 | Category | Technologies |
 | :--- | :--- |
+
+| **Frontend** | React, NextJS, Lightning Web Component, Angular, HTML, CSS, JQuery, JavaScript, Tailwind css |
 | **Backend** | Java (Spring Boot/MVC), Hibernate, REST APIs, MuleSoft, Node.js |
 | **AI & ML** | LLMs (Mistral, DeepSeek, Qwen), LangChain, GraphRAG, Agentforce, Ollama |
 | **Cloud & DevOps** | AWS (EC2, RDS), Kubernetes, Docker, Jenkins, GitHub Actions |
