@@ -1,6 +1,6 @@
 # Hi, I'm Vikranth Reddy Alti 👋 <img src="https://komarev.com/ghpvc/?username=vralti07&label=Profile%20views&color=0e75b6&style=flat-square" alt="vralti07" />
 ### Senior Software Engineer | Java & Cloud Specialist | AI/ML Enthusiast
-### Portfolio 👨‍💻 -> [https://my-nextjs-portfolio-one.vercel.app/](https://my-nextjs-portfolio-one.vercel.app/) 
+### Portfolio 👨🏻‍💼 -> [https://my-nextjs-portfolio-one.vercel.app/](https://my-nextjs-portfolio-one.vercel.app/) 
 
 <p align="left">
   <a href="https://linkedin.com/in/vikranthra31/" target="blank">
