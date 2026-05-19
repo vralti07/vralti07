@@ -26,7 +26,7 @@ I am a **Software Engineer and AI/ML Enthusiast with 6+ years of experience** sp
 | Category | Technologies |
 | :--- | :--- |
 | **Frontend** | React, NextJS, Angular, HTML, CSS, JQuery, Tailwind css |
-| **Backend** |  Spring Boot/MVC, Hibernate, REST APIs, MuleSoft, Node.js |
+| **Backend** |  Spring Boot/MVC, Spring AI, Hibernate, REST APIs, MuleSoft, Node.js |
 | **AI & ML** | LLMs (Mistral, DeepSeek, Qwen), LangChain, GraphRAG, Agentforce, Ollama |
 | **Cloud & DevOps** | AWS (EC2, RDS), Azure, Azure spring apps, Azure Keyvault, Kubernetes, Docker, Jenkins, GitHub Actions |
 | **Databases** | PostgreSQL, Neo4j (Graph), ChromaDB (Vector), MongoDB, Redis |
